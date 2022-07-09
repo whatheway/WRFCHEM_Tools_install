@@ -21,3 +21,7 @@ Tested with current available libraries on 05/27/2022.
 
 # Estimated Run Time ~ 15 - 45 Minutes
 ### Special thanks to NCAR & UCAR Staff
+
+
+### Sponsorships and donations accepted but NOT required
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/whatheway)
